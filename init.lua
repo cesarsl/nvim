@@ -1,0 +1,5 @@
+require('core.options')
+require('core.globals')
+require('core.keybind')
+require('core.autocmd')
+require('core.plugin_manager')

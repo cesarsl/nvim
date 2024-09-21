@@ -1,0 +1,13 @@
+{
+  "format": {
+    "enable": true,
+    "defaultConfig": {
+      "indent_size": "2",
+      "indent_style": "space",
+      "quote_style": "single"
+    }
+  },
+  "diagnostics": {
+    "globals": ["vim"]
+  }
+}
